@@ -1,3 +1,5 @@
+
+# Sales Forecasting
 The sales forecasting project involves the development of a machine learning model to predict sales. The process begins with data cleaning, where raw data is processed to handle missing values, outliers, and inconsistencies. Next, data exploration techniques are employed to gain insights into the dataset's characteristics, such as distributions, correlations, and trends.
 
 Following data cleaning and exploration, the project moves on to feature engineering, where relevant features are selected or created to improve model performance. Hyperparameter tuning is then performed to optimize the model's parameters, often using techniques like grid search or randomized search.
